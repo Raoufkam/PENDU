@@ -1,3 +1,3 @@
-#                   |  PENDU  |     #  
+# |                 PENDU                  |     #  
 
-Un jeu Pendu minimaliste présenté dans une terminal
+Un jeu 'Pendu' minimaliste présenté dans une terminal
