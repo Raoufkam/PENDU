@@ -1,3 +1,5 @@
-# |                 PENDU                  |     #  
+# |                 PENDU       🧍‍♂️           |     #  
 
-Un jeu 'Pendu' minimaliste présenté dans une terminal
+Un jeu ' __Pendu__ ' minimaliste présenté dans un terminal
+
+## Comment ça marche ?
